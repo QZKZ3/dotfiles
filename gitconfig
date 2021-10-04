@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lenamgarrett@gmail.com
+	name = Lena Garrett
